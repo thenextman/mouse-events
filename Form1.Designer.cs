@@ -51,7 +51,6 @@ partial class Form1
         panel1.Name = "panel1";
         panel1.Size = new Size(800, 100);
         panel1.TabIndex = 1;
-        panel1.MouseWheel += Panel1_MouseWheel;
         // 
         // Form1
         // 
